@@ -1,4 +1,7 @@
-# 激活方式
+# 只用于学习研究用途 
+## 感谢 https://zhile.io/ 的大佬开发的此工具
+
+## 激活方式
 > 以下以 「WebStorm」为例，JetBrains 系列安装激活方法都是一样的。
 
 + 运行你的 IDE，进行基本的配置后会弹出激活窗口，选择Evaluate for free，然后点击Evaluate按钮。（如果试用过期请点击「OK」或者「Enter Key」）
@@ -9,6 +12,6 @@
 + 重新启动后点击菜单栏的「WebStorm」，再点击「Preferences…」打开软件的偏好设置，左上角的搜索框处输入「update」,取消勾选右侧的「Automatically check updates」，然后点击「OK」（为了不必要的麻烦，请务必操作！）
 
 ### 安装参数
-> LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGXawLB4qswPOXYG7+ItDNUR/9UkLTUWlnHLX07hnR1USOrWIjTmbytcIKEdaI6x0RskyotuItj84xxoSBP/iRBW2EHpOc
+> Qr7EpuKzNtnTuEmGcLg/YnYyVEcnvR4iflCYTHc6dwuB8Jbx7e6E43CPRA+KjL2O/D/C+hj/rDFrwCNgGAvLcJd3bcaJ8UTMh8FPxd2EfjDt0eopoRIRQKtw8Ua3hlm2i+GvhYnaJ5/F1XN7H/8uEtYqFQlJc9auMxAL3gdnsmY
 
-> update 20200827
+> update 2020-10-27
